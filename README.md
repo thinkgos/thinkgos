@@ -7,8 +7,8 @@
 - :yellow_heart: Coding is my passion.
 - :dizzy: Currently learning on k8s.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&hide=html)
-![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=true&count_private=true&line_height=40)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html)
+![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40)
 
 Languages:  
 <code><img height="40" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/golang.jpeg"></code>
