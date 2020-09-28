@@ -8,7 +8,7 @@
 - :dizzy: Currently learning on k8s.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html)
-![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40)
+![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
 
 Languages and Tools:  
 
