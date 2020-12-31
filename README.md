@@ -12,13 +12,13 @@
 
 Languages and Tools:  
 
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/golang.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/c.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/bash.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/rust.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/goland.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/clion.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/docker.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/linux.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/thinkgos/thinkgos/master/asserts/typora.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/golang.jpeg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/goland.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/clion.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/visual-studio-code.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/typora.jpg"></code>
