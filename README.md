@@ -12,7 +12,7 @@
 
 Languages and Tools:  
 
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/golang.jpeg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/java.png"></code>
