@@ -15,7 +15,6 @@ Languages and Tools:
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/java.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/goland.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/clion.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
