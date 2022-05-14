@@ -17,7 +17,7 @@ Languages and Tools:
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/kubernetes"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/kubernetes.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/goland.png"></code>
