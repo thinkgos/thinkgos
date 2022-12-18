@@ -4,9 +4,9 @@
 
 - :stars: I love Go and Rust.
 - :sparkles: I'm a Software Engineer.
-- :star2: Open source enthusiasts.project: [go-modbus](https://github.com/things-go/go-modbus), [go-iecp5](https://github.com/thinkgos/go-iecp5), [aliyun-iot](https://github.com/things-go/aliyun-iot),
+- :star2: Open source enthusiasts.project: [go-modbus](https://github.com/things-go/go-modbus), [go-iecp5](https://github.com/thinkgos/go-iecp5), [ormat](https://github.com/things-go/ormat),[dyn](https://github.com/things-go/dyn),
 - :yellow_heart: Coding is my passion.
-- :dizzy: Currently learning on [kubernetes](https://github.com/kubernetes/kubernetes).
+- :dizzy: Currently practice in [kubernetes](https://github.com/kubernetes/kubernetes).
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
