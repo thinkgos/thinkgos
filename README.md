@@ -13,21 +13,21 @@
 
 Languages and Tools:
 
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.svg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go1.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/kubernetes.jpeg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/kubernetes.jpeg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/visual-studio-code.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/goland.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/clion.png"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/visual-studio-code.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/typora.jpg"></code>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkgos&repo=goup-rs&description_lines_count=2)](https://github.com/thinkgos/goup-rs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkgos&repo=gorm-rapier&description_lines_count=2)](https://github.com/thinkgos/gorm-rapier)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=things-go&repo=go-socks5&description_lines_count=2)](https://github.com/things-go/go-socks5)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkgos&repo=go-iecp5&description_lines_count=2)](https://github.com/thinkgos/go-iecp5)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkgos&repo=http-signature-go&description_lines_count=2)](https://github.com/thinkgos/http-signature-go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=things-go&repo=protogen-saber&description_lines_count=2)](https://github.com/things-go/protogen-saber)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=things-go&repo=go-modbus&description_lines_count=2)](https://github.com/things-go/go-modbus)
