@@ -13,7 +13,7 @@
 
 Languages and Tools:
 
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go1.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
