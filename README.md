@@ -5,11 +5,11 @@
 - :stars: I love Go and Rust.
 - :sparkles: I'm a Software/Hardware Engineer.
 - 🤓 Working on Ubuntu.
-- :star2: Open source enthusiasts.project: [goup-rs](https://github.com/thinkgos/goup-rs), [timer](https://github.com/thinkgos/timer), [gorm-rapier](https://github.com/thinkgos/gorm-rapier), [go-modbus](https://github.com/things-go/go-modbus), [go-iecp5](https://github.com/thinkgos/go-iecp5), [dyn](https://github.com/things-go/dyn),
+- :star2: Open source enthusiasts.project: [goup-rs](https://github.com/thinkgos/goup-rs), [timer](https://github.com/thinkgos/timer), [gorm-rapier](https://github.com/thinkgos/gorm-rapier), [sets](https://github.com/thinkgos/sets), [go-modbus](https://github.com/things-go/go-modbus), [go-iecp5](https://github.com/thinkgos/go-iecp5),
 - :yellow_heart: Coding is my passion.
 - :dizzy: Currently practice in [kubernetes](https://github.com/kubernetes/kubernetes).
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html,c)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
 
 Languages and Tools:
