@@ -5,7 +5,7 @@
 - :stars: I love Go and Rust.
 - :sparkles: I'm a Software/Hardware Engineer.
 - 🤓 Working on Ubuntu.
-- :star2: Open source enthusiasts.project: [goup-rs](https://github.com/thinkgos/goup-rs), [timer](https://github.com/thinkgos/timer), [gorm-rapier](https://github.com/thinkgos/gorm-rapier), [sets](https://github.com/thinkgos/sets), [go-modbus](https://github.com/things-go/go-modbus), [go-iecp5](https://github.com/thinkgos/go-iecp5),
+- :star2: Open source enthusiasts.
 - :yellow_heart: Coding is my passion.
 - :dizzy: Currently practice in [kubernetes](https://github.com/kubernetes/kubernetes).
 
