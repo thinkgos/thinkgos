@@ -1,18 +1,18 @@
 ### Thanks for visiting my GitHub profile!:sweat_smile:
 
-#### About me:
+#### About me
 
 - :stars: I love Go and Rust.
 - :sparkles: I'm a Software/Hardware Engineer.
-- 🤓 Working on Ubuntu.
+- 🤓 Working on Fedora/Ubuntu.
 - :star2: Open source enthusiasts.
 - :yellow_heart: Coding is my passion.
-- :dizzy: Currently practice in [kubernetes](https://github.com/kubernetes/kubernetes).
+- :dizzy: Currently practice in  [rust](https://github.com/rust-lang/rust)/[kubernetes](https://github.com/kubernetes/kubernetes).
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html,c)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
 
-Languages and Tools:
+Languages and Tools
 
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
