@@ -1,4 +1,4 @@
-### Thanks for visiting my GitHub profile!:sweat_smile:
+### Thanks for visiting my GitHub profile! :sweat_smile:
 
 #### About me
 
