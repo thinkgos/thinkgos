@@ -2,12 +2,12 @@
 
 #### About me
 
-- :stars: I love Go and Rust.
+- :stars: Primarily using Go & Rust & Docker & Nix/Flakes.
 - :sparkles: I'm a Software/Hardware Engineer.
-- 🤓 Working on Fedora/Ubuntu.
+- 🤓 Working on Fedora & Ubuntu.
 - :star2: Open source enthusiasts.
 - :yellow_heart: Coding is my passion.
-- :dizzy: Currently practice in  [rust](https://github.com/rust-lang/rust)/[kubernetes](https://github.com/kubernetes/kubernetes).
+- :dizzy: Currently practice in  [Rust](https://github.com/rust-lang/rust)/[Kubernetes](https://github.com/kubernetes/kubernetes)/[Nix/Flakes](https://github.com/NixOS/nix).
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html,c)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
@@ -18,12 +18,11 @@ Languages and Tools
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/nix.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/docker.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/kubernetes.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/visual-studio-code.png"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/goland.png"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/clion.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/typora.jpg"></code>
 
 <details>
