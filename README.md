@@ -7,7 +7,7 @@
 - 🤓 Working on Fedora & Ubuntu.
 - :star2: Open source enthusiasts.
 - :yellow_heart: Coding is my passion.
-- :dizzy: Currently practice in  [Rust](https://github.com/rust-lang/rust)/[Kubernetes](https://github.com/kubernetes/kubernetes)/[Nix/Flakes](https://github.com/NixOS/nix).
+- :dizzy: Currently practice in  [Rust](https://github.com/rust-lang/rust)/[Kubernetes](https://github.com/kubernetes/kubernetes)/[Nix & Flakes](https://github.com/NixOS/nix).
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html,c)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
