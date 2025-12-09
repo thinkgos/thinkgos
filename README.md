@@ -2,7 +2,7 @@
 
 #### About me
 
-- :stars: Primarily using Go & Rust & Docker & Nix/Flakes.
+- :stars: Primarily using Go/Rust/Docker/Nix & Flakes.
 - :sparkles: I'm a Software/Hardware Engineer.
 - 🤓 Working on Fedora & Ubuntu.
 - :star2: Open source enthusiasts.
