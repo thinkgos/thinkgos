@@ -2,7 +2,7 @@
 
 #### About me
 
-- :stars: Primarily using Go/Rust/Docker/Nix & Flakes.
+- :stars: Primarily using Go/Rust/C/C++/Docker/Nix & Flakes.
 - :sparkles: I'm a Software/Hardware Engineer.
 - 🤓 Working on Fedora & Ubuntu.
 - :star2: Open source enthusiasts.
@@ -16,7 +16,7 @@ Languages and Tools
 
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c.jpeg"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c+c++.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/nix.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
