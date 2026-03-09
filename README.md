@@ -16,7 +16,7 @@ Languages and Tools
 
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/go.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/rust.svg"></code>
-<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/c+c++.png"></code>
+<code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/cc++.png"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/bash.jpg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/nix.jpeg"></code>
 <code><img height="30" src="https://github.com/thinkgos/thinkgos/blob/master/asserts/linux.jpg"></code>
