@@ -11,6 +11,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgos&theme=radical&hide=html,c)
 ![thinkgos's github stats](https://github-readme-stats.vercel.app/api?username=thinkgos&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
+[![Dashboard stats of @thinkgos](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=49174849&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=49174849)
 
 Languages and Tools
 
